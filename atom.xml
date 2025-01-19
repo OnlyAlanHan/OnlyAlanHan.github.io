@@ -6,7 +6,7 @@
   <link href="https://onlyalanhan.github.io/atom.xml" rel="self"/>
   
   <link href="https://onlyalanhan.github.io/"/>
-  <updated>2025-01-06T13:26:53.216Z</updated>
+  <updated>2025-01-19T11:49:26.938Z</updated>
   <id>https://onlyalanhan.github.io/</id>
   
   <author>
@@ -17,18 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://onlyalanhan.github.io/posts/3eeb.html"/>
-    <id>https://onlyalanhan.github.io/posts/3eeb.html</id>
-    <published>2025-01-06T13:02:38.598Z</published>
-    <updated>2025-01-06T13:26:53.216Z</updated>
+    <title>小智ai聊天单片机</title>
+    <link href="https://onlyalanhan.github.io/posts/c38c.html"/>
+    <id>https://onlyalanhan.github.io/posts/c38c.html</id>
+    <published>2025-01-19T11:07:03.000Z</published>
+    <updated>2025-01-19T11:49:26.938Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>每个人的生命都是一条通向自我的路，是在路上的尝试，是狭路上获得的启示。没有一个人能成为完全的自己，但每个人都力争成为自己，都尽其所能，成为昏庸的人，或明智的人。—《德米安》</p><h2 id="制作过程"><a href="#制作过程" class="headerlink" title="制作过程"></a>制作过程</h2><h3 id="材料清单"><a href="#材料清单" class="headerlink" title="材料清单"></a>材料清单</h3><p><img src="http://114.55.247.71:7479/%E5%B0%8F%E6%99%BAai%E8%81%8A%E5%A4%A9%E5%8D%95%E7%89%87%E6%9C%BA/%E6%9D%90%E6%96%99%E6%B8%85%E5%8D%95.jpg" alt="材料清单"></p><h3 id="esp32-s3-42引脚接线"><a href="#esp32-s3-42引脚接线" class="headerlink" title="esp32-s3-42引脚接线"></a>esp32-s3-42引脚接线</h3><p><img src="http://114.55.247.71:7479/%E5%B0%8F%E6%99%BAai%E8%81%8A%E5%A4%A9%E5%8D%95%E7%89%87%E6%9C%BA/esp32-s3-42%E5%BC%95%E8%84%9A%E6%8E%A5%E7%BA%BF.png" alt="接线图"></p><h3 id="程序烧录"><a href="#程序烧录" class="headerlink" title="程序烧录"></a>程序烧录</h3><ul><li><p>小智固件v0.9.7:<a href="https://github.com/78/xiaozhi-esp32/releases">https://github.com/78/xiaozhi-esp32/releases</a></p></li><li><p>小智AI聊天机器人百科全书:<a href="https://ccnphfhqs21z.feishu.cn/wiki/F5krwD16viZoF0kKkvDcrZNYnhb">https://ccnphfhqs21z.feishu.cn/wiki/F5krwD16viZoF0kKkvDcrZNYnhb</a></p></li><li><p>小智AI后台配置面板:<a href="https://xiaozhi.me/">https://xiaozhi.me/</a></p></li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;每个人的生命都是一条通向自我的路，是在路上的尝试，是狭路上获得的启示。没有一个人能成为完全的自己，但每个人都力争成为自己，都尽其所能，成为昏庸的人，或明智的人。—《德米安》&lt;/p&gt;
+&lt;h2 id=&quot;制作过程&quot;&gt;&lt;a href=&quot;#制作过程&quot; class=&quot;headerlin</summary>
       
     
     
