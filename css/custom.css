@@ -368,3 +368,8 @@
   #article-container figure.highlight {
     border-radius: 10px;
   }
+
+  pre code {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
